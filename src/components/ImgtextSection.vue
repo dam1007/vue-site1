@@ -1,5 +1,5 @@
 <template>
-    <section id="imgTextType">
+    <section id="imgTextType" class="section nexon gray">
         <h2 class="ir_so">이미지 텍스트 영역</h2>
         <div class="imgText__inner container">
             <div class="txt">
